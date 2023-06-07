@@ -42,6 +42,6 @@ I'm always open to new opportunities, collaborations, and discussions. Feel free
 [![Email](https://img.shields.io/badge/Email-Send%20me%20an%20Email-red?logo=gmail)](mailto:iamarpitchaudhary@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arpitchaudhary/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-green)](https://iamarpitchaudhary.github.io)
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange)](https://iamarpitchaudhary.github.io)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange)](https://iamarpitchaudhary.github.io/resume.pdf)
 
 I look forward to connecting with you and exploring the exciting world of data analytics and marketing research together!
